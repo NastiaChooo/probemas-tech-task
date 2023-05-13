@@ -37,7 +37,7 @@ const SelectCurrency: FC<Props> = ({ inBgMenu }) => {
   return (
     <FormControl
       sx={{
-        maxWidth: inBgMenu ? "100%" : 90,
+        maxWidth: inBgMenu ? "100%" : 130,
         marginBottom: open && inBgMenu ? "175px" : "0",
       }}
       size="small"
@@ -66,7 +66,7 @@ const SelectCurrency: FC<Props> = ({ inBgMenu }) => {
           ".css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input":
             {
               padding: "10px 5px 10px 0",
-              width: inBgMenu ? "100vw" : "120px",
+              width: inBgMenu ? "100vw" : "130px",
               display: "flex",
               alignItems: "center",
             },

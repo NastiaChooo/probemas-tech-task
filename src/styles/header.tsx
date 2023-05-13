@@ -40,7 +40,7 @@ export const useStyles = makeStyles(() => ({
     },
   },
   selectList: {
-    width: "105px",
+    width: "130px",
     border: "0",
     outline: "none",
     fontFamily: "Gilroy",
