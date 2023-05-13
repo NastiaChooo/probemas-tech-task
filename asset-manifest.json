@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Probemas-tech-task/static/css/main.233b3b67.css",
-    "main.js": "/Probemas-tech-task/static/js/main.44f2becf.js",
+    "main.js": "/Probemas-tech-task/static/js/main.f39c31ca.js",
     "index.html": "/Probemas-tech-task/index.html",
     "main.233b3b67.css.map": "/Probemas-tech-task/static/css/main.233b3b67.css.map",
-    "main.44f2becf.js.map": "/Probemas-tech-task/static/js/main.44f2becf.js.map"
+    "main.f39c31ca.js.map": "/Probemas-tech-task/static/js/main.f39c31ca.js.map"
   },
   "entrypoints": [
     "static/css/main.233b3b67.css",
-    "static/js/main.44f2becf.js"
+    "static/js/main.f39c31ca.js"
   ]
 }
